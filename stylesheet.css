@@ -1,0 +1,203 @@
+/* =========================== LAYOUT SECTION ================ */
+body {
+
+background-color: #ff6781;
+margin: 0px;
+font-family: Verdana, Georgia, serif;
+font-size: 20px;
+color: #c0c0c0;
+background-image: url(back1.gif);
+}
+
+#header {
+background-color: ;
+color: #c0c0c0;
+margin: 10px;
+height: 90px;
+border-radius: 0px;
+
+}
+
+
+#navbar ul{
+padding: 20px;
+list-style-type: none;
+text-align: center;
+background-color: ;
+margin: 10px;
+border-radius: 0px;
+
+font-size: 28px;
+
+}
+
+#navbar ul li {
+display: inline;
+
+}
+
+#navbar ul li a {
+text-decoration: none;
+font-family:Arial;
+padding: .2em 1em;
+color: #fff;
+background-color: ;
+
+}
+
+
+#navbar ul li a:hover {
+color: #000;
+background-color:#fff;
+}
+
+
+
+.main {
+background-color: ;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 10px;
+margin-bottom: 10px;
+border-radius: 5px;
+padding: 20px;
+font-size: 110%;
+
+font-family: Georgia, serif;
+
+text-align: center;
+
+}
+
+
+#left {
+	width: 300px;
+	float: left;
+	padding: 0px;
+	margin: 2px;
+	background-color: ;
+	border: ;
+
+}
+
+
+#center {
+	width: 300px;
+	float: left;
+	padding: 0px;
+	margin-left: 150px;
+	margin-right: 2px;
+	background-color: ;
+	border: ;
+	
+}
+
+
+#right {
+	width: 300px;
+	float: left;
+	padding: 0px;
+	margin-left: 150px;
+	margin-right: 2px;
+	background-color: ;
+	border: ;
+
+clear:right;
+opacity: 1.0;
+transition: opacity 0.5s ease-in-out;
+
+}
+
+.im1 {
+
+}
+
+
+#footer {
+background-color: ;
+margin: 0px;
+height: 60px;
+clear:both;
+border-radius: 0px;
+color: #efe5d0;
+text-align: center;
+padding: 15px;
+font-size: 90%;
+}
+
+#footer ul{
+padding: 5px;
+list-style-type: none;
+text-align: center;
+margin: 10px;
+border-radius: 5px;
+
+}
+
+#footer ul li {
+display: inline;
+
+}
+
+#footer ul li a {
+text-decoration: none;
+font-family:Arial;
+padding: .2em 1em;
+color: #c0c0c0;
+background-color: #5c755e;
+
+}
+
+
+#footer ul li a:hover {
+color: #000;
+background-color:#fff;
+}
+
+#copyright {
+color: #c0c0c0;
+}
+
+#trademark {
+color: #c0c0c0;
+text-align: right;
+}
+
+
+/* =========================== HEADINGS SECTION ================ */
+
+h1 {
+font-size: 120%;
+color: #c0c0c0;
+text-align: center;
+font-family: Arial Black, Gadget, sans-serif
+
+}
+
+h2 {
+font-size: 120%;
+color: darkblue;
+}
+
+h3 {
+font-size: 250%;
+text-align: center;
+color: #c0c0c0;
+font-family: Century Gothic, Gill Sans MT, Arial, sans serif;
+margin: 0px;
+
+position: relative;
+top: 50%;
+-webkit-transform: translateY(-50%);
+-ms-transform: translateY(-50%)
+transform: translateY(-50%);
+}
+
+
+
+
+
+
+
+
+
